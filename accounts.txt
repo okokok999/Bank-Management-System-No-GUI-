@@ -1,0 +1,3 @@
+1001,Grey,normal,2000
+1004,Fin,fixed,500
+1005,ray,normal,2180.00

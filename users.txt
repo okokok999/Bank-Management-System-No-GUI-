@@ -1,0 +1,8 @@
+admin1,admin123,admin
+staff1,staff123,staff
+Carti,carti234,staff
+Grey,grey123,customer
+rave,rav123,customer
+Tim,tim123,customer
+Fin,fin123,customer
+ray,ray123,customer
